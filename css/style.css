@@ -1,0 +1,546 @@
+#hearder .row{
+
+position: fixed;
+width: 1400px;
+	height: 60px;
+background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+}
+#hearder .row .col-3 img{
+   margin-top:5px;
+      margin-left: 10px;   
+         
+}
+#hearder{
+	position: relative;
+}
+
+#hearder .row .col-1{
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	margin:15px;
+	cursor: pointer;
+	transition: .6s;
+	text-transform: uppercase;
+  
+}
+#hearder .row .col-1:hover{
+	border:1px solid white;
+}
+#hearder .row .col-2{
+	margin-top: 12px;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	text-transform: uppercase;
+	border:1px solid white;
+	border-radius: 20px;
+
+}
+#hearder .row .col-2:hover{
+	background: white;
+	color:lightgrey;
+}
+#main .row {
+	 
+	background-image: url(../images/hero-area.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+	
+}
+.promot {
+	
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	margin-top: 300px; 
+ font-weight: 500;
+ margin-left: 80px;
+ font-size: 4.0em;
+}
+.lor{
+	font-family: 'Poppins', sans-serif;
+	color:white;
+	margin-top: 50px; 
+	margin-left: 80px;
+}
+.apps{
+	width: 130px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+  margin-top: 50px; 
+  padding: 10px;
+	margin-left: 80px;
+	border-radius: 20px;
+	text-transform: uppercase;
+	border:1px solid white;
+	text-align: center;
+	cursor: pointer;
+	float: left;
+}
+
+.apps:hover{
+	background: white;
+	color:lightgrey;
+}
+.play{
+	width: 130px;
+	font-family: 'Poppins', sans-serif;
+	color:white;
+  margin-top: 50px; 
+  padding: 10px;
+	margin-left: 15px;
+	border-radius: 20px;
+	text-transform: uppercase;
+	border:1px solid white;
+	text-align: center;
+	cursor: pointer;
+	float: left;
+}
+.play:hover{
+	background: white;
+	color:lightgrey;
+
+}
+#main .col-5 img{
+	width: 80%;
+	margin-top: 357px;
+
+}
+.pontokon{
+	background: white;
+	width: 100%;
+	height: 500px;
+}
+.abpon{
+	font-family: 'Poppins', sans-serif;
+	font-size: 2.3em;
+	font-weight: 350;
+	text-align: center;
+}
+.lopont{
+	padding-top: 50px; 
+	font-family: 'poppins',sans-serif;
+	text-align: center;
+	font-size: 0.9em;
+margin-bottom: 30px;
+}
+
+	
+	
+.fas{
+	background: blue;
+}
+
+
+.qutu1:hover {
+	
+	height: 200px;
+ border: 2px solid silver;
+ 
+}
+.respo{
+	padding-top: 50px;
+	font-family: 'poppins',sans-serif;
+	text-align: center;
+	margin: 25px 0 15px;
+	font-size: 23px;
+    color: #232323;
+
+}
+.con{
+	font-size: 34px;
+    color: white;
+    margin-left: 180px;
+
+}
+.sozler{
+	padding-top: 5px;
+	font-size: 15px;
+    color: #232323;
+	font-family: 'poppins',sans-serif;
+	text-align: center;
+
+}
+.qutu2{
+
+height: 200px;
+ border: 2px solid silver;	
+}
+.qutu3:hover{
+	height: 200px;
+ border: 2px solid silver;	
+}
+#nicolo{
+	height: 700px;
+	background-image: url(../images/feature-bg.jpg);
+   background-size: cover;
+   z-index: -1;
+   position: relative;
+
+}
+.back{
+	height: 700px;
+	position: relative;
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+
+	z-index: 0;
+	opacity: 0.7;
+}
+.first{
+	position: relative;
+	z-index: 1;
+	
+
+}
+.ico{
+	border: 2px dotted silver;
+	font-size: 30px;
+	color: white;
+	padding: 5px;
+	border-radius: 30px;
+
+}
+.ico:hover{
+	border: 2px solid silver;
+}
+.inli{
+
+	font-family: 'poppins',sans-serif;
+margin-left: 60px;
+	font-size: 20px;
+	float:left;
+    
+	color: white;
+}
+.first {
+	margin-top: 90px;
+	margin-left: 50px;
+}
+.lorc{
+	font-family: 'poppins',sans-serif;
+	text-align: center;
+	padding: 10px;
+    float: left;
+	color: white;
+}
+.div1{
+	margin-top: 60px;
+}
+.cent{
+	padding: 40px;
+}
+
+.div2{
+	margin-top: 65px;
+	position: relative;
+}
+
+.icon{
+	border: 2px dotted silver;
+	font-size: 30px;
+	color: white;
+	padding: 5px;
+	border-radius: 30px;
+position: absolute;
+right: 420px;
+   
+}
+.ortacon{
+	margin-left: 660px;
+	width: 70px;
+	background: white;
+	font-size: 35px;
+	color: white;
+
+}
+.caseword{
+	font-family: 'poppins',sans-serif;
+margin-left: 60px;
+	font-size: 25px;
+}
+.caselit{
+	font-family: 'poppins',sans-serif;
+margin-left: 60px;
+margin-top: 20px; 
+	font-size: 17px;
+	color: silver;
+	font-weight: 400;
+}
+.read{
+	width: 100px;
+	font-family: 'Poppins', sans-serif;
+	color:white ;
+  margin-top: 50px; 
+  padding: 10px;
+	margin-left: 80px;
+	border-radius: 20px;
+	font-size: 12px;
+	border:2px solid #002055;
+	text-align: center;
+	background: #002055;
+	cursor: pointer;
+	float: left;
+}
+.read:hover{
+	background: white;
+	color: black;
+}
+.tel1{
+	margin-left:-80px; 
+}
+.tel2{
+	    margin-top: -95px;
+    margin-left: 150px;
+
+}
+.arxa{ 
+	position: relative;
+	background-size: 100% 100%;
+	height:300px;
+	box-sizing: border-box;
+	    background-attachment: fixed;
+	z-index: -1;
+	background-image: url(../images/video-overview.jpg);
+	background-image:no-repeat center;
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.ust{
+	height:300px;
+	position: relative;
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+
+	z-index: 0;
+	opacity: 0.8;
+}
+.videoicon{
+
+	margin-left: 660px;
+	background: white;
+	float: left;
+}
+.videoword{
+
+	font-family: 'poppins',sans-serif;
+margin-left: 400px;
+margin-top: 200px; 
+	font-size: 50px;
+	color: silver;
+	font-weight: 900;
+}
+.col-2 img{
+	max-width: 100%;
+    height: auto;
+	box-sizing: border-box;
+}
+.circ{
+	color: blue;
+	margin-left: 660px;
+	margin-bottom:40px;  
+}
+#our .row.row {
+	color:white;
+}
+
+
+#our{
+	height:880px;
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+}
+.box1{
+	background: white;
+ height:580px;
+	margin-left:  60px;
+}
+.basic{
+	margin: 20px;
+	text-align: center;
+	font-weight: 500;
+	font-size: 25px;
+	font-family: 'poppins',sans-serif;
+}
+.suit{
+	color: darkgrey;
+	margin: 10px;
+	text-align: center;
+	font-weight: 500;
+	font-size: 18px;
+	font-family: 'poppins',sans-serif;
+}
+ .interbox{
+ 	position: relative;
+ 	background: grey;
+ 	height:100px;
+ }
+ .reqem{
+ 	color: white;
+	padding: 130px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 55px;
+	font-family: 'poppins',sans-serif;
+ }
+.box1:hover .interbox{
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+}
+.dol{
+
+	position: absolute;
+	top: 10px;
+	left:   120px;
+	color: white;
+}
+.mail{margin-left: 20px;
+
+	width: 80%;
+	color: grey;
+	padding: 20px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 15px;
+	font-family: 'poppins',sans-serif;
+	border-bottom: 1px solid silver;
+
+}
+.user{
+	color: grey;
+	padding: 20px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 15px;
+	font-family: 'poppins',sans-serif;
+
+}
+.button{
+	width: 120px;
+	font-family: 'Poppins', sans-serif;
+	color:grey ;
+ 
+  padding: 10px;
+	margin-left: 90px;
+	border-radius: 20px;
+	font-size: 12px;
+	border:2px solid silver;
+	text-align: center;
+	background: white;
+	cursor: pointer;
+}
+.box1:hover .button{
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+border-color:#000529; 
+}
+#testi{
+	position: relative;
+}
+.sekil img{
+	left: 475px;
+	position: absolute;
+	top:200px;
+	float: left;
+	width: 80px;
+	height:80px;
+	border-radius: 50px;
+	border: 2px solid #002055; 
+	
+	
+}
+.sekil2 img{
+	position: absolute;
+	top:200px;
+	left: 590px;
+	float: left;
+	width: 100px;
+	height:100px;
+	border-radius: 60px;
+	border: 2px solid #002055; 
+	
+}
+.sekil3 img{
+	position: absolute;
+	top:200px;
+	left: 725px;
+	float: left;
+	width: 80px;
+	height:80px;
+	border-radius: 50px;
+	border: 2px solid #002055; 
+	
+}
+.mary{
+	position: absolute;
+	text-align: center;
+	font-weight: 500;
+	font-size: 20px;
+	font-family: 'poppins',sans-serif;
+	left: 600px;
+	top: 350px;
+}
+.maryword{
+	position: absolute;
+	text-align: center;
+	font-weight: 400;
+	font-size: 15px;
+	color: grey;
+	font-family: 'poppins',sans-serif;
+	left: 450px;
+	top: 400px;
+}
+.author-rating{
+	background: lightgrey;
+	position: absolute;
+	left: 620px;
+	top: 500px;
+}
+#ag{
+	height:400px;
+	background: white;
+}
+#say{
+	height: 500px;
+	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); 
+
+}
+.ic img{
+	background: blue;
+	border-radius: 20px;
+	width: 80px;
+	height:80px;
+	margin-left: 145px; 
+	margin-top: 70px;
+	padding: 15px;
+}
+.saylar{
+	margin-top: 20px;
+	margin-left: 100px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 40px;
+	color: white;
+	font-family: 'poppins',sans-serif;
+}
+.sozr{
+	margin-top: 20px;
+	margin-left: 100px;
+	text-align: center;
+	font-weight: 400;
+	font-size: 30px;
+	color: white;
+	font-family: 'poppins',sans-serif;
+}
+.ic img:hover{
+	background: #002055;
+}
+
+.team img {
+	margin-left: 100px; 
+	float: left;
+	width: 100%;
+	    box-sizing: border-box;
+	  background-size: cover;
+}
+
+
+
+

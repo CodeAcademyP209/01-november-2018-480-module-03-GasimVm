@@ -1,0 +1,77 @@
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+.clear{
+	clear:both;
+}
+.red{
+	background:red;
+	color:white;
+}
+.green{
+	background:green;
+	color:black;
+}
+.blue{
+	background:blue;
+	color:red;
+}
+.container-fluid{
+	width:100%;
+}
+.container{
+	width:1200px;
+	margin:0px auto;
+}
+
+
+.border{
+	border:1px solid white;
+3
+}
+[class^="col-"]{
+	margin: 5px;
+	padding:10px;
+	float:left;
+	
+}
+.col-1{
+	width:calc(100%/12*1 - 32px);
+}
+.col-2{
+	width:calc(100%/12*2 - 32px);
+}
+}
+.col-3{
+	width:calc(100%/12*3 - 32px);
+}
+.col-4{
+	width:calc(100%/12*4 - 32px);
+}
+.col-5{
+	width:calc(100%/12*5 - 32px);
+}
+.col-6{
+	width:calc(100%/12*6 - 32px);
+}
+.col-7{
+	width:calc(100%/12*7 - 32px);
+}
+.col-8{
+	width:calc(100%/12*8 - 32px);
+}
+.col-9{
+	width:calc(100%/12*9 - 32px);
+}
+.col-10{
+	width:calc(100%/12*10 - 32px);
+}
+.col-11{
+	width:calc(100%/12*11 - 32px);
+}
+.col-12{
+	width:calc(100%/12*12 - 32px);
+}
